@@ -27,5 +27,4 @@ public class TestArray {
         int[] in = new int[] {1, 4, 4};
         Assert.assertTrue(MainClass.checkArrayOnOneAndFour(in));
     }
-
 }
