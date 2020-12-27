@@ -20,7 +20,6 @@ public class MassTestArray {
                 {new int[]{7, 5, 4}, new int[]{}}
         });
     }
-
     public MassTestArray(int[] in, int[] out){
         this.in = in;
         this.out = out;

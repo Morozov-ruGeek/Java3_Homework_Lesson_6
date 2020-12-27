@@ -55,7 +55,6 @@ public class MainClass {
         throw new RuntimeException("Цифры 4 в массиве нет");
     }
 
-
     public static boolean checkArrayOnOneAndFour(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             if(arr[i] != 1 && arr[i] != 4 ){
